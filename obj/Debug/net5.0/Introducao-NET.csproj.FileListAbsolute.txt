@@ -1,0 +1,16 @@
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\Introducao-NET.exe
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\Introducao-NET.deps.json
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\Introducao-NET.runtimeconfig.json
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\Introducao-NET.runtimeconfig.dev.json
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\Introducao-NET.dll
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\ref\Introducao-NET.dll
+C:\Users\arthu\source\repos\Introducao-NET\bin\Debug\net5.0\Introducao-NET.pdb
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.AssemblyInfo.cs
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.dll
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\ref\Introducao-NET.dll
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.pdb
+C:\Users\arthu\source\repos\Introducao-NET\obj\Debug\net5.0\Introducao-NET.genruntimeconfig.cache
