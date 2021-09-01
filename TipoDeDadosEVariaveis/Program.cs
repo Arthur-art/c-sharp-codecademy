@@ -20,9 +20,9 @@ namespace TipoDeDadosEVariaveis
             //Convertendo variaveis, Console.ReadLine sempre irá retornar uma string, convertendo seu valor para um int
 
             
-            Console.WriteLine("Digite um numero");
-            int faveNumber = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine($"Numero digitado, {faveNumber}");
+          //  Console.WriteLine("Digite um numero");
+          //  int faveNumber = Convert.ToInt32(Console.ReadLine());
+          //  Console.WriteLine($"Numero digitado, {faveNumber}");
             
 
 
@@ -41,9 +41,9 @@ namespace TipoDeDadosEVariaveis
 
             double newJupiterAge = newEarthAge / jupiterYears;
 
-            Console.WriteLine(jupiterAge);
-            Console.WriteLine(newEarthAge);
-            Console.WriteLine(newJupiterAge);
+           // Console.WriteLine(jupiterAge);
+           // Console.WriteLine(newEarthAge);
+           // Console.WriteLine(newJupiterAge);
             
 
             // Operador modulo
@@ -53,7 +53,7 @@ namespace TipoDeDadosEVariaveis
 
             int groupSize = 4;
             
-            Console.WriteLine(students % groupSize);
+           // Console.WriteLine(students % groupSize);
             
 
             // Metodos integrados
@@ -64,7 +64,20 @@ namespace TipoDeDadosEVariaveis
             double num1Sqrt = Math.Floor(Math.Sqrt(num1));
             double num2Sqrt = Math.Floor(Math.Sqrt(Math.Abs(num2)));
 
-            Console.WriteLine(Math.Min(num1Sqrt, num2Sqrt));
+          //  Console.WriteLine(Math.Min(num1Sqrt, num2Sqrt));
+
+            int num12 = 12;
+            int num19 = 19;
+
+            double num1Ceiling = 12.5;
+            double num2Ceiling = 12.6;
+            double num3Ceiling = 12.4;
+
+
+            Console.WriteLine($"Metodo Ceiling {Math.Ceiling(num3Ceiling)}");
+            Console.WriteLine($"Metodo Floor {Math.Floor(num3Ceiling)}");
+            Console.WriteLine($"Metodo Pow {Math.Pow(2, 2)}");
+            // Console.WriteLine(Math.Max(num12, num19));
 
         }
     }
