@@ -6,16 +6,24 @@ namespace Introducao_NET
     {
         static void Main(string[] args)
         {
+            //Laço de repetição e concatenacao com c#
             /*int numCinco = 5;
             for(int i=0; i<numCinco; i++)
             {
                 Console.WriteLine($"Praticando laço de repetição com dotnet, {i}");
             }*/
 
+
+            //Escrevendo e lendo valores
             Console.WriteLine("Ola, qual a sua idade ?");
             string input = Console.ReadLine();
             Console.WriteLine($"A sua idade é {input}");
 
+            //Tipos de variaveis
+            string name = "Arthur";
+            int age = 25;
+            double weight = 75.5;
+            bool dev = true;
         }
     }
 }
