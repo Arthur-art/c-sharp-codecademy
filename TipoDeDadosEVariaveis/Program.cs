@@ -28,39 +28,44 @@ namespace TipoDeDadosEVariaveis
 
             // Operadores aritméticos
 
-            // Your Age
+            
             int userAge = 30;
 
-            // Length of years on Jupiter (in Earth years)
             double jupiterYears = 11.86;
 
-            // Age on Jupiter
             double jupiterAge = userAge / jupiterYears;
 
-            // Time to Jupiter
             double journeyToJupiter = 6.142466;
 
-            // New Age on Earth
             double newEarthAge = userAge + journeyToJupiter;
 
-            // New Age on Jupiter
             double newJupiterAge = newEarthAge / jupiterYears;
 
-            // Log calculations to console
             Console.WriteLine(jupiterAge);
             Console.WriteLine(newEarthAge);
             Console.WriteLine(newJupiterAge);
+            
 
-            // operador modulo
+            // Operador modulo
 
-            // Number of students
+            
             int students = 18;
 
-            // Number of students in a group
             int groupSize = 4;
-
-            // Does groupSize go evenly into students?
+            
             Console.WriteLine(students % groupSize);
+            
+
+            // Metodos integrados
+
+            int num1 = 121311;
+            int num2 = -9319031;
+
+            double num1Sqrt = Math.Floor(Math.Sqrt(num1));
+            double num2Sqrt = Math.Floor(Math.Sqrt(Math.Abs(num2)));
+
+            Console.WriteLine(Math.Min(num1Sqrt, num2Sqrt));
+
         }
     }
 }
