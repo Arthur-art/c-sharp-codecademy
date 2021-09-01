@@ -50,6 +50,17 @@ namespace TipoDeDadosEVariaveis
             Console.WriteLine(jupiterAge);
             Console.WriteLine(newEarthAge);
             Console.WriteLine(newJupiterAge);
+
+            // operador modulo
+
+            // Number of students
+            int students = 18;
+
+            // Number of students in a group
+            int groupSize = 4;
+
+            // Does groupSize go evenly into students?
+            Console.WriteLine(students % groupSize);
         }
     }
 }
