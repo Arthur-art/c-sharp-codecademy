@@ -2,7 +2,7 @@
 
 namespace TipoDeDadosEVariaveis
 {
-    class Program
+   public class Program
     {
         static void Main(string[] args)
         {
@@ -15,11 +15,9 @@ namespace TipoDeDadosEVariaveis
             bool dev = true;
             decimal money = 10500.65m;
             Console.WriteLine($"{name} { age} { weight} { dev} {money}");
-            
 
             //Convertendo variaveis, Console.ReadLine sempre irá retornar uma string, convertendo seu valor para um int
 
-            
           //  Console.WriteLine("Digite um numero");
           //  int faveNumber = Convert.ToInt32(Console.ReadLine());
           //  Console.WriteLine($"Numero digitado, {faveNumber}");
@@ -78,6 +76,19 @@ namespace TipoDeDadosEVariaveis
             Console.WriteLine($"Metodo Floor {Math.Floor(num3Ceiling)}");
             Console.WriteLine($"Metodo Pow {Math.Pow(2, 2)}");
             // Console.WriteLine(Math.Max(num12, num19));
+
+
+            /*Também podemos usar métodos .NET integrados para capturar partes de strings ou caracteres específicos em uma string.*/
+
+            //Substring and IndexOf
+
+            string plantName = "Cactus, Cactaceae";
+
+            int charPosition = plantName.IndexOf("Cactaceae");
+
+            string commonName = plantName.Substring(charPosition);
+
+            Console.WriteLine($"commonName {commonName}");
 
         }
     }

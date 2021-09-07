@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\source\\repos\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj": {}
+    "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\source\\repos\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj": {
+    "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj",
         "projectName": "TipoDeDadosEVariaveis",
-        "projectPath": "C:\\Users\\arthu\\source\\repos\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj",
+        "projectPath": "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\TipoDeDadosEVariaveis\\TipoDeDadosEVariaveis.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\source\\repos\\TipoDeDadosEVariaveis\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\TipoDeDadosEVariaveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,8 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
