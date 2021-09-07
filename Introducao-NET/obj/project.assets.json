@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\Introducao-NET\\Introducao-NET.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\Introducao-NET\\Introducao-NET.csproj",
       "projectName": "Introducao-NET",
-      "projectPath": "C:\\Users\\arthu\\source\\repos\\Introducao-NET\\Introducao-NET.csproj",
+      "projectPath": "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\Introducao-NET\\Introducao-NET.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\source\\repos\\Introducao-NET\\obj\\",
+      "outputPath": "C:\\Users\\arthu\\source\\repos\\AvanadeCodeAnywhere.NET-DIO\\Introducao-NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {

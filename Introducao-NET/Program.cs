@@ -6,6 +6,9 @@ namespace Introducao_NET
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello World");
+
             //Laço de repetição e concatenacao com c#
 
             
