@@ -4,6 +4,21 @@ namespace DeclaracoesCondicionais
 {
     class Program
     {
+        // Sobrecarga de metodos
+        static void NamePets(string name1, string name2)
+        {
+            Console.WriteLine($"Your pets {name1} and {name2} will be joining your voyage across space!");
+        }
+
+        static void NamePets(string name1, string name2, string name3)
+        {
+            Console.WriteLine($"Your pets {name1} and {name2} will be joining your voyage across space!");
+        }
+
+        static void NamePets()
+        {
+            Console.WriteLine("Aw, you have no spacefaring pets :(");
+        }
         static void Main(string[] args)
         {
             // Metodos simples do C#
@@ -50,25 +65,56 @@ namespace DeclaracoesCondicionais
             }
             ArgsNomeados(d: 50);
 
-
             NamePets();
-            
+
+            // Metodos com retorno
+
+            static string ReturnPlanet(string planetName)
+            {
+                return planetName;
+            }
+
+            Console.WriteLine(ReturnPlanet("Mars"));
+
+            var planet = ReturnPlanet("MarsMission");
+
+            Console.WriteLine(planet);
+
+            static bool FalseTrue()
+            {
+                return true;
+            }
+
+            // Metodo out
+
+            string ageAsString = "12345";
+            int ageAsInt;
+            bool outcome;
+
+            outcome = Int32.TryParse(ageAsString, out ageAsInt);
+
+            Console.WriteLine($"outcome => {outcome}");
+
+            // Arrow functions
+
+            static void arrowFunction() => Console.WriteLine("ArrowFunction");
+
+            arrowFunction();
+
+            // Metodos como argumentos
+
+            string[] adjectives = { "rocky", "mountainous", "cosmic", "extraterrestrial" };
+
+            static bool MaiorPalavra(string palavra)
+            {
+                return palavra.Length > 8;
+            }
+
+            string palavra = Array.Find(adjectives, MaiorPalavra);
+
+            Console.WriteLine(palavra);
+
         }
 
-        // Sobrecarga de metodos
-        static void NamePets(string name1, string name2)
-        {
-            Console.WriteLine($"Your pets {name1} and {name2} will be joining your voyage across space!");
-        }
-
-        static void NamePets(string name1, string name2, string name3)
-        {
-            Console.WriteLine($"Your pets {name1} and {name2} will be joining your voyage across space!");
-        }
-
-        static void NamePets()
-        {
-            Console.WriteLine("Aw, you have no spacefaring pets :(");
-        }
     }
 }
