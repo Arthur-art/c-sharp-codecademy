@@ -1,0 +1,14 @@
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.exe
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.deps.json
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.runtimeconfig.json
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.runtimeconfig.dev.json
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.dll
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\bin\Debug\netcoreapp3.1\ArraysAndLoops.pdb
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.csproj.AssemblyReference.cache
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.AssemblyInfoInputs.cache
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.AssemblyInfo.cs
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.dll
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.pdb
+C:\Users\arthu\Repository\C-Sharp-Codecademy\ArraysAndLoops\ArraysAndLoops\obj\Debug\netcoreapp3.1\ArraysAndLoops.genruntimeconfig.cache
