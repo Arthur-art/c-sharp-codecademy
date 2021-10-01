@@ -29,7 +29,7 @@ namespace DeclaracoesCondicionais
 
             Console.WriteLine(msg);
 
-            var firstLetter =  msg.Substring(0, 1);
+            var firstLetter = msg.Substring(0, 1);
 
             Console.WriteLine(firstLetter);
 
@@ -59,7 +59,7 @@ namespace DeclaracoesCondicionais
 
             // Argumentos Nomeados
 
-            static void ArgsNomeados(int a=1, int b=2, int c=3, int d=4, int e=5)
+            static void ArgsNomeados(int a = 1, int b = 2, int c = 3, int d = 4, int e = 5)
             {
                 Console.WriteLine($"a:{a} b:{b} c:{c} d:{d} e:{e}");
             }
@@ -113,6 +113,15 @@ namespace DeclaracoesCondicionais
             string palavra = Array.Find(adjectives, MaiorPalavra);
 
             Console.WriteLine(palavra);
+
+            // functions lambdas
+
+            int[] arrayNumber = {1, 2, 3, 4, 5, 6, 7, 8};
+
+            int[] numParArray = Array.FindAll(arrayNumber, (value) => value % 2 == 0);
+
+            Console.WriteLine(string.Join(",", numParArray));
+
 
         }
 

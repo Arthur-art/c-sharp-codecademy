@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\Documents\\Repository\\AvanadeCodeAnywhere.NET-DIO\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj": {}
+    "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\Documents\\Repository\\AvanadeCodeAnywhere.NET-DIO\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj": {
+    "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\Documents\\Repository\\AvanadeCodeAnywhere.NET-DIO\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj",
         "projectName": "DeclaracoesCondicionais",
-        "projectPath": "C:\\Users\\arthu\\Documents\\Repository\\AvanadeCodeAnywhere.NET-DIO\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj",
+        "projectPath": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\Metodos\\DeclaracoesCondicionais\\DeclaracoesCondicionais.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\Documents\\Repository\\AvanadeCodeAnywhere.NET-DIO\\Metodos\\DeclaracoesCondicionais\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\Metodos\\DeclaracoesCondicionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
