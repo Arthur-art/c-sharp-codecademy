@@ -46,19 +46,25 @@ namespace ArraysAndLoops
 
             Console.WriteLine(string.Join(",",summerStrut));
 
-            // IndexOf
+            // IndexOf, Copy
 
-            Console.WriteLine(Array.IndexOf(summerStrut, "Vermillion"));
+            // Console.WriteLine(Array.IndexOf(summerStrut, "Juice"));
 
-            string[] arrayCopy = new string[summerStrut.Length];
 
-            Array.Copy(summerStrut, arrayCopy,  summerStrut.Length);
+            // Encontrando valores repetidos no array
 
-            Console.WriteLine(string.Join(",",arrayCopy));
+            int[] numArray = {1,2,3,4,5,6,7,8,1,2,5,5,5 };
 
-            foreach(string value in arrayCopy)
+            int cont = -1;
+            foreach (int value in numArray)
             {
-                Console.WriteLine(value);
+                cont++;
+
+                var indexValue = Array.IndexOf(numArray, numArray[cont]);
+                if (indexValue != cont)
+                {
+                    Console.WriteLine(value);
+                }
             }
 
 
