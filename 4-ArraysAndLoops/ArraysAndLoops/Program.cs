@@ -4,6 +4,16 @@ namespace ArraysAndLoops
 {
     class Program
     {
+        /*
+           1- while os loops são bons quando você conhece sua condição de parada, mas não quando sabe quantas vezes deseja que um programa execute um loop
+           ou se você tem uma coleção específica para fazer o loop.
+          
+           2- do...while os loops são necessários apenas se você quiser que algo seja executado uma vez, mas pare se uma condição for atendida.
+
+           3- for os loops são melhores se você deseja que algo seja executado um número específico de vezes, em vez de receber uma determinada condição.
+
+           4- foreach os loops são a melhor maneira de fazer um loop em uma matriz ou qualquer outra coleção.
+         */
         static void Main(string[] args)
         {
             // Arrays
@@ -90,12 +100,27 @@ namespace ArraysAndLoops
             }
             Console.WriteLine("Todos os emails foram excluidos com sucesso!");
 
-            bool alarme = false;
+            bool alarme = true;
 
             do
             {
                 Console.WriteLine("BLARRR");
             } while (!alarme);
+
+            // Saindo de Loops
+
+            bool alarmePomodoro = true;
+            int contAlarme = 0;
+            do
+            {
+                Console.WriteLine("Barr");
+                contAlarme++;
+                if(contAlarme == 3)
+                {
+                    break;
+                }
+
+            } while (alarmePomodoro);
 
 
         }
