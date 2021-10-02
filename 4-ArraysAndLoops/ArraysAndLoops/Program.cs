@@ -78,6 +78,26 @@ namespace ArraysAndLoops
             Console.WriteLine(string.Join(",", numArrayCopy));
 
 
+            // Loop While
+
+            int emails = 20;
+
+            while(emails > 0)
+            {
+                emails--;
+                Console.WriteLine($"Excluindo email de numero {emails},");
+                Console.WriteLine($"Ainda faltam {emails} emails a ser excluidos");
+            }
+            Console.WriteLine("Todos os emails foram excluidos com sucesso!");
+
+            bool alarme = false;
+
+            do
+            {
+                Console.WriteLine("BLARRR");
+            } while (!alarme);
+
+
         }
     }
 }
