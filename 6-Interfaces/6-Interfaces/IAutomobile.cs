@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _6_Interfaces
 {
-    interface IInitInterface
+    interface IAutomobile
     {
         string LicensePlate { get; }
         double Speed { get; }
