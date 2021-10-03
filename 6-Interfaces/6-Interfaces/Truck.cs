@@ -6,10 +6,9 @@ namespace LearnInterfaces
     class Truck : Vehicle, IAutomobile
     {
 
-        public Truck(double speed, double weight)
+        public Truck(double speed, double weight):base(speed)
         {
-            Speed = speed;
-            LicensePlate = "1313311";
+          
             Weight = weight;
 
             if (weight < 400)

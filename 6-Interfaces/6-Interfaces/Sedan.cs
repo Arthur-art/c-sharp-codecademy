@@ -7,10 +7,8 @@ namespace _6_Interfaces
     class Sedan : Vehicle, IAutomobile
     {
 
-        public Sedan(double speed)
+        public Sedan(double speed) : base(speed)
         {
-            Speed = speed;
-            LicensePlate = "91821928";
             Wheels = 4;
         }
 
