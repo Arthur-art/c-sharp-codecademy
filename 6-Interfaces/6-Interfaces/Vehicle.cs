@@ -12,25 +12,26 @@ namespace _6_Interfaces
             Speed = speed;
             LicensePlate = "91821928";
         }
-        public string LicensePlate { get; private set; }
+        public string LicensePlate { get; protected set; }
 
-        public double Speed { get; private set; }
+        public double Speed { get; protected set; }
 
-        public int Wheels { get; set; }
+        public int Wheels { get; protected set; }
 
         public void Honk()
         {
             Console.WriteLine("Trabalhando com Interfaces");
         }
 
-        public void SpeedUp()
+        public virtual void SpeedUp()
         {
             Speed += 1;
         }
 
-        public void SpeedDown()
+        public virtual void SpeedDown()
         {
             Speed -= 1;
         }
+
     }
 }
