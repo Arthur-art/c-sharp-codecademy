@@ -15,5 +15,27 @@ namespace _5_ClassesEObjetos
             get { return name; }
             set { name = value; }
         }
+
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
+        public string Job
+        {
+            get { return job; }
+            set
+            {
+                if(value == "Dev" || value == "Developer")
+                {
+                    job = value;
+                }
+                else
+                {
+                    job = "null";
+                }
+            }
+        }
     }
 }

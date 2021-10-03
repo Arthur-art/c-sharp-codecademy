@@ -11,11 +11,11 @@ namespace _5_ClassesEObjetos
 
             BasicClass b = new BasicClass();
 
-            b.name = "Arthur";
-            b.job = "Dev";
-            b.age = 25;
+            b.Name = "Arthur";
+            b.Job = "Developer";
+            b.Age = 25;
 
-            Console.WriteLine(b.name);
+            Console.WriteLine(b.Job);
         }
     }
 }
