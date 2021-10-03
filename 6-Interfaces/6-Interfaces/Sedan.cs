@@ -4,19 +4,8 @@ using System.Text;
 
 namespace _6_Interfaces
 {
-    class Sedan : IAutomobile
+    class Sedan : Vehicle, IAutomobile
     {
-
-        public string LicensePlate { get; }
-
-        public double Speed { get; private set; }
-
-        public int Wheels { get; }
-
-        public void Honk()
-        {
-            Console.WriteLine("Trabalhando com Interfaces");
-        }
 
         public Sedan(double speed)
         {
@@ -25,14 +14,6 @@ namespace _6_Interfaces
             Wheels = 4;
         }
 
-        public void SpeedUp()
-        {
-            Speed += 1;
-        }
-
-        public void SpeedDown()
-        {
-            Speed -= 1;
-        }
+       
     }
 }
