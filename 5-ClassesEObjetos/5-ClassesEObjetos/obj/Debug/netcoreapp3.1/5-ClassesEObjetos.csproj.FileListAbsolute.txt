@@ -1,0 +1,14 @@
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\bin\Debug\netcoreapp3.1\5-ClassesEObjetos.exe
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\bin\Debug\netcoreapp3.1\5-ClassesEObjetos.deps.json
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\bin\Debug\netcoreapp3.1\5-ClassesEObjetos.runtimeconfig.json
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\bin\Debug\netcoreapp3.1\5-ClassesEObjetos.runtimeconfig.dev.json
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\bin\Debug\netcoreapp3.1\5-ClassesEObjetos.dll
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\bin\Debug\netcoreapp3.1\5-ClassesEObjetos.pdb
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.csproj.AssemblyReference.cache
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.AssemblyInfoInputs.cache
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.AssemblyInfo.cs
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.dll
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.pdb
+C:\Users\arthu\Repository\C-Sharp-Codecademy\5-ClassesEObjetos\5-ClassesEObjetos\obj\Debug\netcoreapp3.1\5-ClassesEObjetos.genruntimeconfig.cache
