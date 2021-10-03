@@ -3,6 +3,25 @@ using System;
 
 namespace _6_Interfaces
 {
+    /*
+Análise
+
+Bem feito! Você aprendeu muito rapidamente, então vamos fazer uma revisão:
+
+A herança é uma forma de evitar a duplicação em várias classes.
+
+Na herança, uma classe herda os membros de outra classe.
+
+A classe que herda é chamada de subclasse ou classe derivada . A outra classe é chamada de superclasse ou classe base .
+
+Podemos acessar os membros de uma superclasse usando base. Isso é muito útil ao chamar o construtor da superclasse.
+
+Podemos restringir o acesso a uma superclasse e suas subclasses usando protected.
+
+Podemos substituir um membro da superclasse usando virtuale override.
+
+Podemos fazer um membro em uma superclasse sem definir sua implementação usando abstract. Isso é útil se a implementação de cada subclasse for diferente.
+     */
     class Program
     {
         static void Main(string[] args)
@@ -36,6 +55,12 @@ namespace _6_Interfaces
             b.SpeedDown();
 
             Console.WriteLine("b.Speed "+b.Speed);
+
+            Console.WriteLine("b.Describle() " + b.Describle());
+
+            Console.WriteLine("firstSedan.Describle() " + firstSedan.Describle());
+
+            Console.WriteLine("firstTruck.Describle() " + firstTruck.Describle());
         }
     }
 }

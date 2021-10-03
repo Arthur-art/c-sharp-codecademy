@@ -4,7 +4,7 @@ using System.Text;
 
 namespace _6_Interfaces
 {
-    class Vehicle
+   abstract class Vehicle
     {
 
        public Vehicle(double speed)
@@ -32,6 +32,8 @@ namespace _6_Interfaces
         {
             Speed -= 1;
         }
+
+        public abstract string Describle();
 
     }
 }

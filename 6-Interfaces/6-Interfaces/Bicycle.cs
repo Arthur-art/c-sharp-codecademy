@@ -20,6 +20,10 @@ namespace _6_Interfaces
         {
             Speed -= 5;
         }
-        
+
+        public override string Describle()
+        {
+            return $"This bicycle is moving on {Wheels} wheels at {Speed} km/h, with license plate {LicensePlate}.";
+        }
     }
 }

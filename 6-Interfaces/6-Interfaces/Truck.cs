@@ -23,5 +23,10 @@ namespace LearnInterfaces
 
         public double Weight { get; set; }
 
+        public override string Describle()
+        {
+            return $"This truck is moving on {Wheels} wheels at {Speed} km/h, with license plate {LicensePlate}.";
+        }
+
     }
 }
