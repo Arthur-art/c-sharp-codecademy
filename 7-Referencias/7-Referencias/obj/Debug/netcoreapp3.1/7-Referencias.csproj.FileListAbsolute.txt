@@ -12,3 +12,17 @@ C:\Users\arthu\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Deb
 C:\Users\arthu\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.dll
 C:\Users\arthu\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.pdb
 C:\Users\arthu\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.genruntimeconfig.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\bin\Debug\netcoreapp3.1\7-Referencias.exe
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\bin\Debug\netcoreapp3.1\7-Referencias.deps.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\bin\Debug\netcoreapp3.1\7-Referencias.runtimeconfig.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\bin\Debug\netcoreapp3.1\7-Referencias.runtimeconfig.dev.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\bin\Debug\netcoreapp3.1\7-Referencias.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\bin\Debug\netcoreapp3.1\7-Referencias.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.AssemblyInfo.cs
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\7-Referencias\7-Referencias\obj\Debug\netcoreapp3.1\7-Referencias.genruntimeconfig.cache

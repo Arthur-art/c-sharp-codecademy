@@ -17,7 +17,7 @@ namespace _7_Referencias
 
         public virtual string Stringfy()
         {
-            return "This is a Book object";
+            return $"livro: {Title}, Autor: {Author}";
         }
     }
 }

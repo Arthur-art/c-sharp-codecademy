@@ -8,11 +8,18 @@ namespace _7_Referencias
         {
             Diary dy1 = new Diary(16);
             Diary dy2 = dy1;
+            Diary dy3 = new Diary(16);
 
             dy2.Flip();
 
-            Console.WriteLine(dy1.CurrentPage);
-            Console.WriteLine(dy2.CurrentPage);
+            Console.WriteLine(dy1 == dy2);
+            Console.WriteLine(dy1 == dy3);
+
+            Book bookLocation = new Book("Arthur","BookArthur");
+            Book sameBookLocation = bookLocation;
+
+            Console.WriteLine(bookLocation.Stringfy());
+            Console.WriteLine(sameBookLocation.Stringfy());
         }
     }
 }

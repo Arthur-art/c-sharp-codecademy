@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj": {}
+    "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj": {
+    "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj",
+        "projectUniqueName": "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj",
         "projectName": "7-Referencias",
-        "projectPath": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj",
+        "projectPath": "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\7-Referencias.csproj",
         "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\obj\\",
+        "outputPath": "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\7-Referencias\\7-Referencias\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
