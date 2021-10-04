@@ -21,5 +21,10 @@ namespace _8_Objetos
         {
             Console.WriteLine($"Este livro {Title}, foi escrito por {Autor}, e possui {Pagina} paginas ");
         }
+
+        public override string ToString()
+        {
+            return $"Alterando o metodo ToString";
+        }
     }
 }

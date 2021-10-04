@@ -21,6 +21,18 @@ namespace _8_Objetos
             {
                 Console.WriteLine(value.GetType());
             }
+
+            // Alterando metodos object
+
+            Console.WriteLine(book.ToString());
+
+            /*
+             Cada tipo, eventualmente, herda de Object
+
+             Objectmembros incluem Equals(), ToString() e GetType()
+
+             O ToString() método permite Console.WriteLine() trabalhar para todos os tipos
+            */
         }
     }
 }
