@@ -1,0 +1,14 @@
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\bin\Debug\netcoreapp3.1\9-Strings.exe
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\bin\Debug\netcoreapp3.1\9-Strings.deps.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\bin\Debug\netcoreapp3.1\9-Strings.runtimeconfig.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\bin\Debug\netcoreapp3.1\9-Strings.runtimeconfig.dev.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\bin\Debug\netcoreapp3.1\9-Strings.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\bin\Debug\netcoreapp3.1\9-Strings.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.AssemblyInfo.cs
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\9-Strings\9-Strings\obj\Debug\netcoreapp3.1\9-Strings.genruntimeconfig.cache
