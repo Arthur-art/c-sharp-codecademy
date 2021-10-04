@@ -38,6 +38,17 @@ namespace _7_Referencias
             {
                 Console.WriteLine(valueBook.Stringfy());
             }
+
+            // Polimorfismo
+
+            PolimorfismoApplication.helloWorld();
+            PolimorfismoClass.helloWorld();
+
+            PolimorfismoApplication pa = new PolimorfismoApplication();
+            PolimorfismoClass pc = new PolimorfismoClass();
+
+            pa.hello();
+            pc.hello();
                 
         }
     }
