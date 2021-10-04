@@ -16,6 +16,12 @@ namespace _10_Listas
             {
                 Console.WriteLine(value);
             }
+
+            List<string> cestaFrutas = new List<string> { "Maçã","Banana","Pera","Morango"};
+            cestaFrutas.Add("Uva");
+
+            Console.WriteLine(cestaFrutas.Count);
+            Console.WriteLine(cestaFrutas.Contains("Morango"));
         }
     }
 }
