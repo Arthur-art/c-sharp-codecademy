@@ -1,0 +1,13 @@
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\bin\Debug\netcoreapp3.1\10-Listas.exe
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\bin\Debug\netcoreapp3.1\10-Listas.deps.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\bin\Debug\netcoreapp3.1\10-Listas.runtimeconfig.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\bin\Debug\netcoreapp3.1\10-Listas.runtimeconfig.dev.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\bin\Debug\netcoreapp3.1\10-Listas.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\bin\Debug\netcoreapp3.1\10-Listas.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.AssemblyInfo.cs
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.genruntimeconfig.cache
