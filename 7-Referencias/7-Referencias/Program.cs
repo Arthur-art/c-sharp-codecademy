@@ -20,6 +20,25 @@ namespace _7_Referencias
 
             Console.WriteLine(bookLocation.Stringfy());
             Console.WriteLine(sameBookLocation.Stringfy());
+
+            // Matriz de referencias
+
+            Book book1 = new Book("Harry","Harry Potter");
+            Book book2 = new Book("Aquiles","TROIA");
+            Book book3 = new Book("Thomas", "Blinder");
+
+            Book[] books = new Book[]
+            {
+                book1,
+                book2,
+                book3
+            };
+
+            foreach(Book valueBook in books)
+            {
+                Console.WriteLine(valueBook.Stringfy());
+            }
+                
         }
     }
 }
