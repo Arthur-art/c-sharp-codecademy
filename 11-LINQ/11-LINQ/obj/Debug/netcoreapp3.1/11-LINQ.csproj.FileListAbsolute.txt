@@ -1,0 +1,14 @@
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\bin\Debug\netcoreapp3.1\11-LINQ.exe
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\bin\Debug\netcoreapp3.1\11-LINQ.deps.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\bin\Debug\netcoreapp3.1\11-LINQ.runtimeconfig.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\bin\Debug\netcoreapp3.1\11-LINQ.runtimeconfig.dev.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\bin\Debug\netcoreapp3.1\11-LINQ.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\bin\Debug\netcoreapp3.1\11-LINQ.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.AssemblyInfo.cs
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\11-LINQ\11-LINQ\obj\Debug\netcoreapp3.1\11-LINQ.genruntimeconfig.cache
