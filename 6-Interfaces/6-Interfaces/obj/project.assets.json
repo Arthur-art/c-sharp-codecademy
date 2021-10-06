@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\6-Interfaces\\6-Interfaces\\6-Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\6-Interfaces\\6-Interfaces\\6-Interfaces.csproj",
       "projectName": "6-Interfaces",
-      "projectPath": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\6-Interfaces\\6-Interfaces\\6-Interfaces.csproj",
+      "projectPath": "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\6-Interfaces\\6-Interfaces\\6-Interfaces.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\Repository\\C-Sharp-Codecademy\\6-Interfaces\\6-Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\arthu\\Documents\\Repository\\C-Sharp-Codecademy\\6-Interfaces\\6-Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

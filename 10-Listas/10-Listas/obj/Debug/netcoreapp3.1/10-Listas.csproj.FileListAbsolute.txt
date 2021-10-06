@@ -11,3 +11,4 @@ C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\D
 C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.dll
 C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.pdb
 C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.genruntimeconfig.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\10-Listas\10-Listas\obj\Debug\netcoreapp3.1\10-Listas.csproj.AssemblyReference.cache

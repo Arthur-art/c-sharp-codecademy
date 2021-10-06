@@ -49,7 +49,10 @@ namespace _7_Referencias
 
             pa.hello();
             pc.hello();
-                
+
+            PolimorfismoApplication.helloWorld();
+
+
         }
     }
 }

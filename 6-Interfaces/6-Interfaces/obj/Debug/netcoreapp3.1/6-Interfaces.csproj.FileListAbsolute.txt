@@ -12,3 +12,17 @@ C:\Users\arthu\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug
 C:\Users\arthu\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.dll
 C:\Users\arthu\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.pdb
 C:\Users\arthu\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.genruntimeconfig.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\bin\Debug\netcoreapp3.1\6-Interfaces.exe
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\bin\Debug\netcoreapp3.1\6-Interfaces.deps.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\bin\Debug\netcoreapp3.1\6-Interfaces.runtimeconfig.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\bin\Debug\netcoreapp3.1\6-Interfaces.runtimeconfig.dev.json
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\bin\Debug\netcoreapp3.1\6-Interfaces.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\bin\Debug\netcoreapp3.1\6-Interfaces.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.csproj.AssemblyReference.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.AssemblyInfo.cs
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.dll
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.pdb
+C:\Users\arthu\Documents\Repository\C-Sharp-Codecademy\6-Interfaces\6-Interfaces\obj\Debug\netcoreapp3.1\6-Interfaces.genruntimeconfig.cache

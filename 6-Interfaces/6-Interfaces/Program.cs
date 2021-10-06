@@ -61,6 +61,14 @@ Podemos fazer um membro em uma superclasse sem definir sua implementação usand
             Console.WriteLine("firstSedan.Describle() " + firstSedan.Describle());
 
             Console.WriteLine("firstTruck.Describle() " + firstTruck.Describle());
+
+            Sedan teste = new Sedan(12.90);
+
+            Console.WriteLine(teste.Speed);
+
+            teste.SpeedUp();
+
+            Console.WriteLine(teste.Speed);
         }
     }
 }
