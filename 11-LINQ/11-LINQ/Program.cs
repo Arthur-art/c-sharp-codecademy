@@ -24,6 +24,20 @@ namespace _11_LINQ
                 
 
             Console.WriteLine(string.Join(",", listLinq));
+
+            // Métodos e sintaxes de consulta LINQ
+
+            var queryResult = from value in listString
+                              where value.Contains("a")
+                              select $"A palavra {value} contem a letra a";
+
+            Console.WriteLine(string.Join(", ",queryResult));
+
+            var resultMethod = listString
+                .Where(value => value.Contains("a"))
+                .Select(value => $"A palavra {value} contem a letra a");
+
+            Console.WriteLine(string.Join(", ", resultMethod));
         }
     }
 }
