@@ -19,9 +19,9 @@ namespace _11_LINQ
                 }
             }
 
-            var listLinq = from value in listString
-                           where value.Length > 6
-                           select value;
+            var listLinq = listString
+                .Where(x => x.Length > 6);
+                
 
             Console.WriteLine(string.Join(",", listLinq));
         }
